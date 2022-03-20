@@ -1,2 +1,2 @@
-# LoisPolii2100018077
+# Kalkulator Sederhana
 Repositry milik Lois
